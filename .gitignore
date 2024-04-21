@@ -1,4 +1,4 @@
 # The notes.txt file contains the personal access token to allow pushes to other GitHub accounts besides Cabra's.
 # GitHub considers this personal access token a "secret" since it should not be shared, and certainly not be in 
 # a repository that can be viewed publicly. GitHub has "push protection" that warns against pushing files that contain "secrets".
-notes.txt
+private_notes.txt
